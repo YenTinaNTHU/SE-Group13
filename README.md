@@ -13,4 +13,4 @@ This is the repo for Software Engineering course 2022, group13
 - 新的 branch 第一次 push: git push --set-upstream origin <branch name>
 - merge branch:
     1. 先切回主分支：git checkout main
-    2. git merge <branch name>s
+    2. git merge <branch name>
