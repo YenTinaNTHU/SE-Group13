@@ -9,5 +9,5 @@ This is the repo for Software Engineering course 2022, group13
 - Add -> Commit
     git add -A
     git commit -m '<commit message>'
-- Push 到 GitHub
-    git push
+- Push 到 GitHub: git push
+- 新的 branch 第一次 push: git push --set-upstream origin <branch name>
